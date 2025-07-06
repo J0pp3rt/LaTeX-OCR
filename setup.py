@@ -59,7 +59,7 @@ setuptools.setup(
         'einops>=0.3.0',
         'x_transformers==0.15.0',
         'transformers==4.52.1',
-        'tokenizers>=0.20.1',
+        # 'tokenizers>=0.20.1',
         'numpy>=1.19.5',
         'Pillow>=9.1.0',
         'PyYAML>=5.4.1',
