@@ -35,7 +35,7 @@ setuptools.setup(
     long_description_content_type='text/markdown',
     author='Lukas Blecher',
     author_email='luk.blecher@gmail.com',
-    url='https://github.com/lukas-blecher/LaTeX-OCR/',
+    url='https://github.com/J0pp3rt/LaTeX-OCR',
     license='MIT',
     keywords=[
         'artificial intelligence',
