@@ -65,7 +65,7 @@ setuptools.setup(
         'PyYAML>=5.4.1',
         'pandas>=1.0.0',
         'timm==0.5.4',
-        'albumentations>=0.5.2',
+        'albumentations==1.4.24',
         'pyreadline3>=3.4.1; platform_system=="Windows"',
     ],
     extras_require={
